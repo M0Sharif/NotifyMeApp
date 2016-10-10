@@ -1,0 +1,19 @@
+{
+  "name": "notifymeapp",
+  "version": "1.0.0",
+  "description": "an app that connects to tfl and weather api to return useful information",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M0Sharif/NotifyMeApp.git"
+  },
+  "author": "Mo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M0Sharif/NotifyMeApp/issues"
+  },
+  "homepage": "https://github.com/M0Sharif/NotifyMeApp#readme"
+}
