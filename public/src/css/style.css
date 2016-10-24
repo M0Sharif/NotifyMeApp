@@ -1,0 +1,27 @@
+.login{
+	margin-right: 10px;
+}
+.register{
+	text-decoration: none;
+}
+.username{
+	text-transform: capitalize;
+}
+.up{
+	/*padding-right: 18px;*/
+}
+.ups{
+	padding-right: 15px;
+	display: inline;
+}
+.downs{
+	display: inline;
+	padding-right: 15px;
+}
+.score{
+	display: inline;
+	padding-right: 15px;
+}
+.thubmup .thumbdown .star{
+	padding-right: 15px;
+}
